@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/pam24org/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/parazure1.calculator?branchName=master)](https://dev.azure.com/pam24org/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=5&branchName=master)
